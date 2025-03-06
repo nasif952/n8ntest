@@ -1,0 +1,12 @@
+{
+  "name": "vercel-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "crypto": "1.0.1",
+    "fs": "0.0.1",
+    "vercel": "^23.0.0"
+  }
+}
