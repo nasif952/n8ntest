@@ -5,6 +5,7 @@
     "dev": "vercel dev"
   },
   "dependencies": {
-    "vercel": "^23.0.0"
+    "vercel": "^23.0.0",
+    "bcrypt": "^5.1.1"
   }
 }
